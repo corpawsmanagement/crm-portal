@@ -1,5 +1,6 @@
 ### Status
 - Initial deployment
+- Stack updated
 
 
 ### Features
