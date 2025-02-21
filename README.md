@@ -1,6 +1,6 @@
 ### Status
 - Initial deployment
-- Stack updated
+- Stack freeze
 
 
 ### Features
